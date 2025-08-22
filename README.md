@@ -1,1 +1,3 @@
 # Hospitality
+
+https://app.powerbi.com/view?r=eyJrIjoiZDNjNDI1M2MtMmE1My00YzEzLTgzOTMtNzJkMDY0YWU0ZTczIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
