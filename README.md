@@ -6,10 +6,10 @@ This project is a Power BI dashboard designed to analyze and visualize key metri
 
 Objectives
 
-•	Track occupancy rates and seasonal trends.
-•	Monitor revenue performance across time periods.
-•	Analyze customer demographics and preferences.
-•	Provide actionable insights for improving service efficiency.
+  •	Track occupancy rates and seasonal trends.
+  •	Monitor revenue performance across time periods.
+  •	Analyze customer demographics and preferences.
+  •	Provide actionable insights for improving service efficiency.
 
 
 Key Insights & Visuals
@@ -25,14 +25,13 @@ Key Insights & Visuals
 
 Tools & Techniques
 
-•	Power BI Desktop – Data modeling, DAX measures, interactive visuals.
-•	Power Query – Data cleaning and transformation.
-•	DAX – Custom measures for occupancy %, revenue growth, and YoY comparisons.
+  •	Power BI Desktop – Data modeling, DAX measures, interactive visuals.
+  •	Power Query – Data cleaning and transformation.
+  •	DAX – Custom measures for occupancy %, revenue growth, and YoY comparisons.
 
 
 Project Goals
 
-•	Demonstrate practical data analysis skills using Power BI.
-•	Showcase ability to build interactive dashboards for business decision‑making.
-•	Serve as a portfolio project for data analyst roles.
-
+  •	Demonstrate practical data analysis skills using Power BI.
+  •	Showcase ability to build interactive dashboards for business decision‑making.
+  •	Serve as a portfolio project for data analyst roles.
