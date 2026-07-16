@@ -1,6 +1,6 @@
-Hospitality Dashboard 🏨📊
+#Hospitality Dashboard 🏨📊
 
-Overview
+#Overview#
 This project is a Power BI dashboard designed to analyze and visualize key metrics in the hospitality industry. It provides insights into revenue, occupancy, ratings and total guests, helping managers make data‑driven decisions.
 
 
