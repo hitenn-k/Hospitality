@@ -27,3 +27,5 @@ This project is a **Power BI dashboard** designed to analyze and visualize key m
 - Demonstrate practical data analysis skills using Power BI  
 - Showcase ability to build interactive dashboards for business decision‑making  
 - Serve as a portfolio project for data analyst roles  
+
+LinkedIn : <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7484108784538406913?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
